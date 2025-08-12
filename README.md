@@ -4,7 +4,7 @@
 
 :pencil: **Apasionado por la tecnologia**
 
-:football: **Fans de los deportes**
+:running: **Fans de los deportes**
 
 :family:**¡Amo mi familia!**
 
