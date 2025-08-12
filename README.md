@@ -1,9 +1,13 @@
 ## Hi there 👋
 
 :computer: **Ingeniero de Sistemas**
+
 :pencil: **Apasionado por la tecnologia**
+
 :football: **Fans de los deportes**
+
 :family:**¡Amo mi familia!**
+
 
 ###Vias de contacto
 
