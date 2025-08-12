@@ -4,7 +4,7 @@
 
 :pencil: **Apasionado por la tecnologia**
 
-:running: **Fans de los deportes** :soccer: :man_cycling: 
+:running: **Fans de los deportes** :soccer:  :man_cycling: 
 
 :family:**¡Amo mi familia!**
 
