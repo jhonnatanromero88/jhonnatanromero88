@@ -2,7 +2,7 @@
 
 :computer: **Ingeniero de Sistemas**
 :pencil: **Apasionado por la tecnologia**
-:sport: **Fans de los deportes**
+:football: **Fans de los deportes**
 :family:**¡Amo mi familia!**
 
 ###Vias de contacto
