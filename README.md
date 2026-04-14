@@ -5,7 +5,12 @@
 :running: **Fans de los deportes** :soccer:  
 :family:**¡Amo mi familia!**  
   
-  
+
+## :zap: Mi Actividad reciente en GitHub
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
   
 ## Vias de contacto
 
